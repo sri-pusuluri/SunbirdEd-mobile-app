@@ -101,7 +101,7 @@
     "grapheme-splitter": "^1.0.4",
     "ionic-plugin-keyboard": "^2.2.1",
     "ionic4-rating": "^1.0.9",
-    "jspdf": "^2.0.0",
+    "jspdf": "^4.2.1",
     "lodash-es": "^4.17.20",
     "ng-recaptcha": "^5.0.0",
     "ngx-chips": "2.0.2",
